@@ -3,7 +3,7 @@
 ## 🚀 Overview
 ![Main Preview](assets/img/ofdm_waveform.png)
 
-**OFDMSystemSim** is an open-source personal designed to model and simulate an **Orthogonal Frequency Division Multiplexing (OFDM)** communication system using the **Jupyter Notebook** environment. The simulation includes transmitter and receiver chains, signal propagation over noisy and multipath channels, synchronization, and advanced analyses such as **PAPR** and **channel equalization**.
+**OFDMSystemSim** is an open-source project designed to model and simulate an **Orthogonal Frequency Division Multiplexing (OFDM)** communication system using the **Jupyter Notebook** environment. The simulation includes transmitter and receiver chains, signal propagation over noisy and multipath channels, synchronization, and advanced analyses such as **PAPR** and **channel equalization**.
 
 ## 🎯 Purpose
 - 📡 **Understand OFDM Communications**: Implement the full digital chain from symbol generation to reception.
